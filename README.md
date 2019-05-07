@@ -1,7 +1,7 @@
 # E-26 Temp Sensor
 
-![Temp Sensor](https://live.staticflickr.com/65535/40785585963_ca46753d8d_k.jpg)
-![Temp Sensor](https://live.staticflickr.com/65535/46962805984_b0e9dc204d_k.jpg)
+![Temp Sensor](https://live.staticflickr.com/65535/32801181147_35a95d6a3b_k.jpg)
+![Temp Sensor](https://live.staticflickr.com/65535/40778035803_7646797a8f_k.jpg)
 
 This sensor measures Temperature in degree Celsius.
 
