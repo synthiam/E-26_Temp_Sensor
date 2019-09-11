@@ -15,6 +15,6 @@ This sensor measures Temperature in degree Celsius as an Analog Voltage. It has 
 
 For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
-Please see LICENSE.md for license details.
+Please see [LICENSE.md](https://github.com/synthiam/E-26_Temp_Sensor/blob/master/LICENSE.md) for license details.
 
 Synthiam Website: https://synthiam.com
