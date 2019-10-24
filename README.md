@@ -17,7 +17,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - Temerature range: -40°C to 125°C
 - Voltage requirements: 3.2-16V (3.3V typical)
 - Current draw: 1.6mA
-- Dimensions (7-pin mini DIN): 16.2(W) x 39.5(L) x 7.8(H) (mm)
+- Dimensions: 16.2(W) x 23.8(L) x 7.3(H) (mm)
 - Weight: 2g
 
 **Major components:** 
